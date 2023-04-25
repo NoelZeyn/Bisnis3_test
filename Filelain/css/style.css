@@ -107,6 +107,10 @@ body {
   text-align: center;
 }
 
+/* .active{
+  background-color: #b00b03;
+} */
+
 .custom_nav-container .user_option {
   display: -webkit-box;
   display: -ms-flexbox;
